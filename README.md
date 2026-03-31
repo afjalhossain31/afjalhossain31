@@ -1,12 +1,33 @@
-## Hi there 👋, I'm Afjal Hossain
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p>
+  <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+</p>
 
-👋Hi, I'm a Computer Science and Engineering student with a passion for building efficient, scalable, and user-friendly software solutions. My technical skills span across various programming languages and frameworks, and I am continuously learning to expand my expertise.
+## Hi there ,My name is Afjal Hossain.  
+A passionate and fast-learning Full Stack Developer from Bangladesh.  
 
-- 🔭 I’m currently working on  Quick Doctor 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+I'm a Computer Science and Engineering student with a strong interest in building modern, scalable, and user-friendly web applications. I love working with new technologies and continuously improving my skills 🚀
+
+---
+
+* 🔭 I’m currently working on MERN Stack
+* 🌱 I’m currently learning Next.js & Advanced React
+* 👯 I’m looking to collaborate on Open Source Projects
+* 💬 Ask me about #JavaScript #ReactJS #NodeJS
+* ⚡ Fun fact: I love building real-world projects
+
+---
+
+## {…} My Stack 💻🚀
+
+```js
+{
+  languages: ['JavaScript', 'Java', 'Python', 'C', 'C++'],
+  frontend: ['HTML', 'CSS', 'Tailwind', 'React', 'Next.js'],
+  backend: ['Node.js', 'Express.js'],
+  databases: ['MongoDB', 'Firebase', 'MySQL'],
+  tools: ['VS Code', 'Git', 'GitHub', 'Figma', 'Canva', 'Vercel','MongoDB Compass'],
+}
+```
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
