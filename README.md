@@ -37,13 +37,13 @@ I'm a Computer Science and Engineering student with a strong interest in buildin
 ### <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/abdullah-al-afjal">
+<a href="https://linkedin.com/in/afjalhossain31">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:abdullahalafjal31@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://facebook.com/your-profile">
+<a href="https://facebook.com/Abdullah5101730">
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
 </a>
 <a href="https://codeforces.com/profile/abdullahalafjal">
