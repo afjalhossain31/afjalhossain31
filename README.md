@@ -9,8 +9,12 @@ I'm a Computer Science and Engineering student with a strong interest in buildin
 
 ---
 
-* 🔭 I’m currently working on MERN Stack
-* 🌱 I’m currently learning Next.js & Advanced React
+* 🔭 I’m currently working on MERN Stack   
+1️⃣ MongoDB (Database)  
+2️⃣ Express.js (Backend Framework)  
+3️⃣ React.js (Frontend Library)  
+4️⃣ Node.js (Server-side Runtime)
+* 🌱 I’m currently learning Next.js & Advanced React 
 * 👯 I’m looking to collaborate on Open Source Projects
 * 💬 Ask me about #JavaScript #ReactJS #NodeJS
 * ⚡ Fun fact: I love building real-world projects
