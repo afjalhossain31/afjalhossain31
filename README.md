@@ -79,3 +79,12 @@ I'm a Computer Science and Engineering student with a strong interest in buildin
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afjalhossain31&theme=gruvbox-duo&fire=FF882C&currStreakLabel=EB5454&cache_seconds=1800)
+
+</div>
