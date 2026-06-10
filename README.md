@@ -1,8 +1,23 @@
+<div align="center">
+
+# Hi there, I'm Afjal Hossain 👋
+
+### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=MERN+Stack+Developer)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-afjalhossain-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-two-eosin-fvy525gbnp.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-afjalhossain31-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afjalhossain31/)
+[![Email](https://img.shields.io/badge/Email-abdullahalafjal31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalafjal31@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-afjalhossain31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afjalhossain31)
+[![Codeforces](https://img.shields.io/badge/Codeforces-abdullahalafjal-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abdullahalafjal)
+![Profile Views](https://komarev.com/ghpvc/?username=afjalhossain31&label=Profile%20Views&style=for-the-badge)
+
+</div>
+
 <p>
   <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
 </p>
 
-## Hi there ,My name is Afjal Hossain.  
+## About.  
 A passionate and fast-learning Full Stack Developer from Bangladesh.  
 
 I'm a Computer Science and Engineering student with a strong interest in building modern, scalable, and user-friendly web applications. I love working with new technologies and continuously improving my skills 🚀
@@ -60,31 +75,4 @@ I'm a Computer Science and Engineering student with a strong interest in buildin
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
-### <h3 align="center">🌐 Connect with Me</h3>
 
-<p align="center">
-<a href="https://linkedin.com/in/afjalhossain31">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:abdullahalafjal31@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://facebook.com/Abdullah5101730">
-  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
-</a>
-<a href="https://codeforces.com/profile/abdullahalafjal">
-  <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces" />
-</a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afjalhossain31&theme=gruvbox-duo&fire=FF882C&currStreakLabel=EB5454&cache_seconds=1800)
-
-</div>
