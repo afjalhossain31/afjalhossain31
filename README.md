@@ -23,16 +23,11 @@ A passionate and fast-learning Full Stack Developer from Bangladesh.
 I'm a Computer Science and Engineering student with a strong interest in building modern, scalable, and user-friendly web applications. I love working with new technologies and continuously improving my skills 🚀
 
 ---
-
-* 🔭 I’m currently working on MERN Stack   
-1️⃣ MongoDB (Database)  
-2️⃣ Express.js (Backend Framework)  
-3️⃣ React.js (Frontend Library)  
-4️⃣ Node.js (Server-side Runtime)
-* 🌱 I’m currently learning Next.js & Advanced React 
-* 👯 I’m looking to collaborate on Open Source Projects
-* 💬 Ask me about #JavaScript #ReactJS #NodeJS
-* ⚡ Fun fact: I love building real-world projects
+```
+🌍 Open to: Remote & On-site Opportunities
+🎯 Seeking: Frontend Developer | Junior MERN Stack Developer 
+🚀 Focus: Full-Stack MERN applications (MongoDB, Express, React, Next.js)
+```
 
 ---
 
