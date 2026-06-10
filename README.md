@@ -31,7 +31,7 @@ I'm a Computer Science and Engineering student with a strong interest in buildin
 
 ---
 
-## {…} My Stack 💻🚀
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%7B...%7D+My+Stack)
 
 ```js
 {
