@@ -23,7 +23,6 @@ Beyond application development, I bring hands-on experience in server administra
 
 I enjoy turning ideas into functional digital solutions, writing clean and maintainable code, and continuously learning new technologies to improve my skills as a developer. My goal is to create reliable, high-performance applications that deliver great user experiences while following modern development best practices.
 
-
 ---
 ```
 🌍 Open to: Remote & On-site Opportunities
@@ -55,7 +54,6 @@ I enjoy turning ideas into functional digital solutions, writing clean and maint
 
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK)
------
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -95,12 +93,10 @@ I enjoy turning ideas into functional digital solutions, writing clean and maint
 ![SSL/DNS](https://img.shields.io/badge/SSL%20%2F%20DNS-009688?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ---
----
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
 
 <details> 
-
 <summary>
 View Academic Background  ⤵
 </summary>
