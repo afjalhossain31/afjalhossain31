@@ -29,7 +29,6 @@ I enjoy turning ideas into functional digital solutions, writing clean and maint
 🎯 Seeking: Frontend Developer | Junior MERN Stack Developer 
 🚀 Focus: Full-Stack MERN applications (MongoDB, Express, React, Next.js)
 ```
-
 ---
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%7B...%7D+My+Stack)
@@ -74,16 +73,12 @@ I enjoy turning ideas into functional digital solutions, writing clean and maint
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**➦ CMS & Platforms**
+**➦ CMS , Platforms & Software**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-
-
-
-**➦ Software**
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 **➦ Tools & DevOps**
 
