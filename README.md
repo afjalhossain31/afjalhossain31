@@ -41,11 +41,17 @@ I enjoy turning ideas into functional digital solutions, writing clean and maint
   tools: ['VS Code', 'Git', 'GitHub', 'Figma', 'Canva', 'Vercel','MongoDB Compass'],
 }
 ```
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=%F0%9F%94%A5+WHAT+I'M+UP+TO%3F)
+
+* 🌱 **Currently mastering** the MERN Stack, including React.js, Next.js, Node.js, Express.js, and MongoDB
+* 🚀 **Building full-stack applications** to strengthen my problem-solving skills and gain real-world development experience
+* 🤝 **Open to collaboration** on modern web applications, admin dashboards, SaaS platforms, and e-commerce solutions
+* 📚 **Continuously learning** scalable system design, application security, performance optimization, and CI/CD workflows
+* 💡 **Passionate about** creating clean, user-friendly, and high-performance digital experiences
+* ⚡ **Fun fact:** I enjoy a bit of humor alongside coding—but I always make sure to get the job done. 💻
+
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK)
-
-**➦ MERN Stack (Currently Mastering)**
-
 -----
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
