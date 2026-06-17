@@ -95,5 +95,23 @@ I enjoy turning ideas into functional digital solutions, writing clean and maint
 ![SSL/DNS](https://img.shields.io/badge/SSL%20%2F%20DNS-009688?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ---
+---
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
+
+<details> 
+
+<summary>
+View Academic Background  ⤵
+</summary>
+
+| Institution | Qualification | Period | Result |
+|------------|--------------|---------|---------|
+| Daffodil International University | B.Sc. in Computer Science & Engineering (CSE) | 2022–2026 | CGPA: 3.55 |
+| Hazi Asmat Govt. College, Bhairab | Higher Secondary Certificate (HSC) – Science | 2018–2020 | GPA: 5.00 |
+| Jogendra Chandra High School | Secondary School Certificate (SSC) – Science | 2016–2018 | GPA: 5.00 |
+
+</details> 
+
+---
 
