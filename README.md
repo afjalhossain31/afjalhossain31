@@ -13,13 +13,16 @@
 
 </div>
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=600&lines=%F0%9F%91%8B+About+Me;Junior+Full-Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI+Powered+Solutions)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=650&lines=%F0%9F%91%8B+About+Me;Junior+Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI+Powered+Solutions)
 
 Hi 👋, I'm a Junior Full-Stack Developer passionate about building modern, scalable, and user-friendly web applications. My primary expertise lies in the MERN Stack, including React.js, Next.js, Node.js, Express.js, and MongoDB.
 
-Beyond application development, I bring hands-on experience in CMS management, server administration, deployment workflows, and maintaining live production environments. This practical background has given me a deeper understanding of how software performs in real-world scenarios—from development and optimization to deployment and ongoing maintenance.
+I hold a Bachelor's degree in Computer Science and Engineering (CSE), which has provided me with a strong foundation in software development, algorithms, databases, and problem-solving.
+
+Beyond application development, I bring hands-on experience in server administration, deployment workflows, and maintaining live production environments. This practical background has given me a deeper understanding of how software performs in real-world scenarios—from development and optimization to deployment and ongoing maintenance. 
 
 I enjoy turning ideas into functional digital solutions, writing clean and maintainable code, and continuously learning new technologies to improve my skills as a developer. My goal is to create reliable, high-performance applications that deliver great user experiences while following modern development best practices.
+
 
 ---
 ```
