@@ -108,4 +108,22 @@ View Academic Background  ⤵
 </details> 
 
 ---
+---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
+<details> 
+  <summary>
+Explore My Work  ⤵
+  </summary>
+
+
+### Full Stack Projects
+
+| Project | Description | Tech | Live |
+|---------|-------------|------|------|
+| **Property Rental Booking Platform — Room & Workspace Booking Platform** | Full-stack property rental platform featuring role-based access (Tenant, Owner, Admin), dynamic search and filtering, secure Stripe checkout, and a centralized dashboard for managing properties, booking requests, and favorites. | Next.js, Express.js, MongoDB, Better Auth, JWT, Stripe, Tailwind, HeroUI,CSS | [🔗 Live](https://property-rental-booking-platform-cl.vercel.app) · [GitHub](https://github.com/afjalhossain31/Property-Rental-Booking-Platform-Client) |
+| **DoctorAppoint — Booking Platform** | Advanced doctor appointment system enabling patients to search, filter, and book top-rated specialists. Features secure authentication (Better Auth, Google Sign-in), SEO-optimized responsive design, and a private dashboard to manage bookings, reviews, and profiles. | Next.js, React , MongoDB, Better Auth, Tailwind CSS v4, HeroUI | [🔗 Live](https://doctor-appoint-client.vercel.app) · [GitHub](https://github.com/afjalhossain31/Doctor-Appoint-Client) |
+
+ ---
+
 
