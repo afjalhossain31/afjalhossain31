@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Name+%3D+%22Afjal+Hossain%22;role+%3D+%22Full-Stack+Developer%22;stack+%3D+%22MERN+%2B+Next.js%22;location+%3D+%22Dhaka%2C+Bangladesh%22;available+%3D+%22Open+to+Work+%F0%9F%9F%A2%22" />
+</p>
+
 <div align="center">
 
 # Hi there, I'm Afjal Hossain 👋
