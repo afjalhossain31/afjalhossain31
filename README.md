@@ -27,7 +27,7 @@ Beyond application development, I bring hands-on experience in server administra
 
 I enjoy turning ideas into functional digital solutions, writing clean and maintainable code, and continuously learning new technologies to improve my skills as a developer. My goal is to create reliable, high-performance applications that deliver great user experiences while following modern development best practices.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 ```
 🌍 Open to: Remote & On-site Opportunities
 🎯 Seeking: Frontend Developer | Junior MERN Stack Developer 
@@ -94,7 +94,7 @@ I enjoy turning ideas into functional digital solutions, writing clean and maint
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
 
@@ -111,8 +111,8 @@ View Academic Background  ⤵
 
 </details> 
 
----
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
 <details> 
@@ -130,9 +130,8 @@ Explore My Work  ⤵
 
 </details>
 
- ---
- 
- ---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8F%86+ACHIEVEMENTS+%26+CERTIFICATES)
 
@@ -150,6 +149,4 @@ Explore My Work  ⤵
 
 </details>
 
- ---
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
