@@ -128,6 +128,28 @@ Explore My Work  ⤵
 | **Property Rental Booking Platform — Room & Workspace Booking Platform** | Full-stack property rental platform featuring role-based access (Tenant, Owner, Admin), dynamic search and filtering, secure Stripe checkout, and a centralized dashboard for managing properties, booking requests, and favorites. | Next.js, Express.js, MongoDB, Better Auth, JWT, Stripe, Tailwind, HeroUI,CSS | [🔗 Live](https://property-rental-booking-platform-cl.vercel.app) · [GitHub](https://github.com/afjalhossain31/Property-Rental-Booking-Platform-Client) |
 | **DoctorAppoint — Booking Platform** | Advanced doctor appointment system enabling patients to search, filter, and book top-rated specialists. Features secure authentication (Better Auth, Google Sign-in), SEO-optimized responsive design, and a private dashboard to manage bookings, reviews, and profiles. | Next.js, React , MongoDB, Better Auth, Tailwind CSS v4, HeroUI | [🔗 Live](https://doctor-appoint-client.vercel.app) · [GitHub](https://github.com/afjalhossain31/Doctor-Appoint-Client) |
 
+</details>
+
+ ---
+ 
+ ---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8F%86+ACHIEVEMENTS+%26+CERTIFICATES)
+
+<details>
+  <summary>View Achievements & Certificates ⤵</summary>
+
+### 🏆 Achievements & Certificates
+
+| 🏅 Achievement | 🏢 Organization | 📅 Year | 🎖️ Status | 📄 Certificate |
+|---------------|-----------------|---------|-----------|----------------|
+| 📊 Data Visionary – NDAC-2025 | National Data Analytics Competition | 2025 | Certificate Holder | [📄 View](https://drive.google.com/file/d/1ohGM67BjqbTe6ea7jfROz56jYXKUvJR3/view?usp=sharing) |
+| 🤖 RoboTronics Fest 2025 | University of Dhaka | 2025 | Participant | [📄 View](https://drive.google.com/file/d/1KFYxtQcLT4NEozevUG6A6FtVLIwCPQCd/view?usp=sharing) |
+| 🌍 Diplomacy Drill | DIU Model United Nations Association | 2025 | Participant | [📄 View](https://drive.google.com/file/d/1bB_TNKRmVZ1vpAh6FsJZAHtco33fmqan/view?usp=sharing) |
+| 🎙️ Daffodil International MUN'25 | Daffodil International University | 28–30 December 2025 | Conference Officer – Culinary & Logistics Affairs | [📄 View](https://drive.google.com/file/d/1QD_KPHpPNV7RjTatcce-FMo-GlzE6-Yj/view?usp=sharing) |
+
+</details>
+
  ---
 
 
