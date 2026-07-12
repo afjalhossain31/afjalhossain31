@@ -21,7 +21,7 @@
 
 Hi 👋, I'm a Junior Full-Stack Developer passionate about building modern, scalable, and user-friendly web applications. My primary expertise lies in the MERN Stack, including Next.js, React.js, Node.js, Express.js, and MongoDB.
 
-I hold a Bachelor's degree in Computer Science and Engineering (CSE), which has provided me with a strong foundation in software development, algorithms, databases, and problem-solving.
+I hold a Bachelor's degree in Computer Science and Engineering (CSE), which has provided me with a strong foundation in software development, algorithms, databases, Data Structural and problem-solving.
 
 Beyond application development, I bring hands-on experience in server administration, deployment workflows, and maintaining live production environments. This practical background has given me a deeper understanding of how software performs in real-world scenarios—from development and optimization to deployment and ongoing maintenance. 
 
