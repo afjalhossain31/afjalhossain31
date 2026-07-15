@@ -8,7 +8,7 @@
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=MERN+Stack+Developer)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-afjalhossain-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://afjalhossain31.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-afjalhossain-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.afjalhossain.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afjalhossain31-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afjalhossain31/)
 [![Email](https://img.shields.io/badge/Email-abdullahalafjal31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalafjal31@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-afjalhossain31-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/afjalhossain31/)
