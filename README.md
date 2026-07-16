@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi there, I'm Afjal Hossain 👋
+# Hi there, I'm Afjal Hossain
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=MERN+Stack+Developer)
 
@@ -19,13 +19,9 @@
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=650&lines=%F0%9F%91%8B+About+Me;Junior+Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI+Powered+Solutions)
 
-Hi 👋, I'm a Junior Full-Stack Developer passionate about building modern, scalable, and user-friendly web applications. My primary expertise lies in the MERN Stack, including Next.js, React.js, Node.js, Express.js, and MongoDB.
+Hi 👋, I'm a Junior Full-Stack Developer with a Bachelor's degree in Computer Science and Engineering (CSE). I specialize in the MERN Stack, including TypeScript, Next.js, React.js, Node.js, Express.js, and MongoDB.
 
-I hold a Bachelor's degree in Computer Science and Engineering (CSE), which has provided me with a strong foundation in software development, algorithms, databases, Data Structural and problem-solving.
-
-Beyond application development, I bring hands-on experience in server administration, deployment workflows, and maintaining live production environments. This practical background has given me a deeper understanding of how software performs in real-world scenarios—from development and optimization to deployment and ongoing maintenance. 
-
-I enjoy turning ideas into functional digital solutions, writing clean and maintainable code, and continuously learning new technologies to improve my skills as a developer. My goal is to create reliable, high-performance applications that deliver great user experiences while following modern development best practices.
+I enjoy building modern, scalable, and user-friendly web applications. Through academic and personal projects, I have gained hands-on experience in full-stack development, deployment, and maintaining production-ready applications. I'm always eager to learn new technologies and write clean, maintainable code.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 ```
