@@ -26,7 +26,7 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 ```
 🌍 Open to: Remote & On-site Opportunities
-🎯 Seeking: Frontend Developer | Junior MERN Stack Developer 
+🎯 Seeking: Junior Full-Stack Developer | MERN Stack Developer 
 🚀 Focus: Full-Stack MERN applications (MongoDB, Express, Next.js, React)
 ```
 ---
@@ -35,7 +35,7 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
 
 ```js
 {
-  languages: ['JavaScript', 'Java', 'Python', 'C', 'C++'],
+  languages: ['JavaScript', TypeScript,  'Java', 'Python', 'C', 'C++'],
   frontend: ['HTML', 'CSS', 'Tailwind', 'React', 'Next.js'],
   backend: ['Node.js', 'Express.js'],
   databases: ['MongoDB', 'Firebase', 'MySQL'],
