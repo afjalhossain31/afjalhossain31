@@ -35,7 +35,7 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
 
 ```js
 {
-  languages: ['JavaScript', TypeScript,  'Java', 'Python', 'C', 'C++'],
+  languages: ['JavaScript', 'TypeScript' ,  'Java', 'Python', 'C', 'C++'],
   frontend: ['HTML', 'CSS', 'Tailwind', 'React', 'Next.js'],
   backend: ['Node.js', 'Express.js'],
   databases: ['MongoDB', 'Firebase', 'MySQL'],
