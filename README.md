@@ -90,22 +90,6 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
-
-<details> 
-<summary>
-View Academic Background  ⤵
-</summary>
-
-| Institution | Qualification | Period | Result |
-|------------|--------------|---------|---------|
-| Daffodil International University | B.Sc. in Computer Science & Engineering (CSE) | 2022–2026 | CGPA: 3.55 |
-| Hazi Asmat Govt. College, Bhairab | Higher Secondary Certificate (HSC) – Science | 2018–2020 | GPA: 5.00 |
-| Jogendra Chandra High School | Secondary School Certificate (SSC) – Science | 2016–2018 | GPA: 5.00 |
-
-</details> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 
@@ -125,6 +109,25 @@ Explore My Project ⤵
 | **DoctorAppoint — Booking Platform** | Advanced doctor appointment system enabling patients to search, filter, and book top-rated specialists. Features secure authentication (Better Auth, Google Sign-in), SEO-optimized responsive design, and a private dashboard to manage bookings, reviews, and profiles. | Next.js, React.js, MongoDB, Better Auth, Tailwind CSS v4, HeroUI | [🔗 Live Link](https://doctor-appoint-client.vercel.app) · [GitHub](https://github.com/afjalhossain31/Doctor-Appoint-Client) |
 
 </details>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
+
+<details> 
+<summary>
+View Academic Background  ⤵
+</summary>
+
+| Institution | Qualification | Period | Result |
+|------------|--------------|---------|---------|
+| Daffodil International University | B.Sc. in Computer Science & Engineering (CSE) | 2022–2026 | CGPA: 3.55 |
+| Hazi Asmat Govt. College, Bhairab | Higher Secondary Certificate (HSC) – Science | 2018–2020 | GPA: 5.00 |
+| Jogendra Chandra High School | Secondary School Certificate (SSC) – Science | 2016–2018 | GPA: 5.00 |
+
+</details> 
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 
