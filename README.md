@@ -8,8 +8,6 @@
 
 <div align="center">
 
-# Hi there, I'm Afjal Hossain
-
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=MERN+Stack+Developer)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-afjalhossain-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.afjalhossain.online)
