@@ -113,16 +113,16 @@ View Academic Background  ⤵
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
 <details> 
   <summary>
-Explore My Work  ⤵
+Explore My Project ⤵
   </summary>
-
 
 ### Full Stack Projects
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| **Property Rental Booking Platform — Room & Workspace Booking Platform** | Full-stack property rental platform featuring role-based access (Tenant, Owner, Admin), dynamic search and filtering, secure Stripe checkout, and a centralized dashboard for managing properties, booking requests, and favorites. | Next.js, Express.js, MongoDB, Better Auth, JWT, Stripe, Tailwind, HeroUI,CSS | [🔗 Live](https://property-rental-booking-platform-cl.vercel.app) · [GitHub](https://github.com/afjalhossain31/Property-Rental-Booking-Platform-Client) |
-| **DoctorAppoint — Booking Platform** | Advanced doctor appointment system enabling patients to search, filter, and book top-rated specialists. Features secure authentication (Better Auth, Google Sign-in), SEO-optimized responsive design, and a private dashboard to manage bookings, reviews, and profiles. | Next.js, React , MongoDB, Better Auth, Tailwind CSS v4, HeroUI | [🔗 Live](https://doctor-appoint-client.vercel.app) · [GitHub](https://github.com/afjalhossain31/Doctor-Appoint-Client) |
+| **Clarion Nexus — Agentic AI-Powered Digital Agency Platform** | Production-ready full-stack Agentic AI platform for digital agencies, enabling clients to explore services, submit project requests, track progress through a secure dashboard, and leverage AI-powered chat assistance and proposal generation. Built with modern full-stack architecture, secure authentication, responsive UI, and intelligent automation. | Next.js 14, TypeScript, Express.js, MongoDB, JWT, Gemini API, Tailwind CSS, Framer Motion | [🔗 Live Link](https://clarion-nexus-frontend.vercel.app) · [GitHub](https://github.com/afjalhossain31/Clarion-Nexus-Platform) |
+| **Property Rental Booking Platform — Room & Workspace Booking Platform** | Full-stack property rental platform featuring role-based access (Tenant, Owner, Admin), dynamic search and filtering, secure Stripe checkout, and a centralized dashboard for managing properties, booking requests, and favorites. | Next.js, Express.js, MongoDB, Better Auth, JWT, Stripe, Tailwind CSS, HeroUI | [🔗 Live Link](https://property-rental-booking-platform-cl.vercel.app) · [GitHub](https://github.com/afjalhossain31/Property-Rental-Booking-Platform-Client) |
+| **DoctorAppoint — Booking Platform** | Advanced doctor appointment system enabling patients to search, filter, and book top-rated specialists. Features secure authentication (Better Auth, Google Sign-in), SEO-optimized responsive design, and a private dashboard to manage bookings, reviews, and profiles. | Next.js, React.js, MongoDB, Better Auth, Tailwind CSS v4, HeroUI | [🔗 Live Link](https://doctor-appoint-client.vercel.app) · [GitHub](https://github.com/afjalhossain31/Doctor-Appoint-Client) |
 
 </details>
 
