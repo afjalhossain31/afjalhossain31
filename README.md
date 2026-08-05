@@ -16,23 +16,25 @@
 
 </div>
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=650&lines=%F0%9F%91%8B+About+Me;Junior+Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI+Powered+Solutions)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=5000&typeSpeed=30&backSpeed=15&color=FF7B72&width=650&lines=%F0%9F%91%8B+About+Me;Junior+Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI+Powered+Solutions)
+
 
 Hi 👋, I'm a Junior Full-Stack Developer with a Bachelor's degree in Computer Science and Engineering (CSE). I specialize in the MERN Stack, including TypeScript, Next.js, React.js, Node.js, Express.js, and MongoDB.
 
 I enjoy building modern, scalable, and user-friendly web applications. Through academic and personal projects, I have gained hands-on experience in full-stack development, deployment, and maintaining production-ready applications. I'm always eager to learn new technologies and write clean, maintainable code.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
+
 ```
 🌍 Open to: Remote & On-site Opportunities
 🎯 Seeking: Junior Full-Stack Developer | MERN Stack Developer 
-🚀 Focus: Full-Stack MERN applications (MongoDB, Express, Next.js, React)
+🚀 Focus: Full-Stack MERN applications (MongoDB, Express.js, React.js, Node.js)
 ```
----
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%7B...%7D+My+Stack)
 
-```js
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=5000&color=FF7B72&width=435&lines=My+Stack)
+
+```
 {
   languages: ['JavaScript', 'TypeScript' ,  'Java', 'Python', 'C', 'C++'],
   frontend: ['HTML', 'CSS', 'Tailwind', 'React', 'Next.js'],
@@ -41,7 +43,9 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
   tools: ['VS Code', 'Git', 'GitHub', 'Figma', 'Canva', 'Vercel','MongoDB Compass'],
 }
 ```
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=%F0%9F%94%A5+WHAT+I'M+UP+TO%3F)
+
+
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=5000&color=FF7B72&width=435&lines=WHAT+I'M+UP+TO%3F)
 
 * 🌱 **Currently mastering** the MERN Stack, Next.js, React.js, Node.js, Express.js, and MongoDB
 * 🚀 **Building full-stack applications** to strengthen my problem-solving skills and gain real-world development experience
