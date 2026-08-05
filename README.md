@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=FF7B72&width=435&lines=MERN+Stack+Developer)
+### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=7000&color=FF7B72&width=435&lines=MERN+Stack+Developer)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-afjalhossain-238636?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.afjalhossain.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afjalhossain31-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afjalhossain31/)
@@ -16,7 +16,7 @@
 
 </div>
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=5000&typeSpeed=30&backSpeed=15&color=FF7B72&width=650&lines=%F0%9F%91%8B+About+Me;Junior+Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI+Powered+Solutions)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&typeSpeed=30&backSpeed=15&color=FF7B72&width=650&lines=%F0%9F%91%8B+About+Me;Junior+Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI+Powered+Solutions)
 
 
 Hi 👋, I'm a Junior Full-Stack Developer with a Bachelor's degree in Computer Science and Engineering (CSE). I specialize in the MERN Stack, including TypeScript, Next.js, React.js, Node.js, Express.js, and MongoDB.
@@ -55,7 +55,7 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
 * ⚡ **Fun fact:** I enjoy a bit of humor alongside coding—but I always make sure to get the job done. 💻
 
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&color=FF7B72&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK)
 
 **➦ Frontend**
 
@@ -97,7 +97,7 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
 <details> 
   <summary>
 Explore My Project ⤵
@@ -116,7 +116,7 @@ Explore My Project ⤵
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
 
 <details> 
 <summary>
@@ -135,7 +135,7 @@ View Academic Background  ⤵
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8F%86+ACHIEVEMENTS+%26+CERTIFICATES)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&color=FF7B72&width=435&lines=%F0%9F%8F%86+ACHIEVEMENTS+%26+CERTIFICATES)
 
 <details>
   <summary>View Achievements & Certificates ⤵</summary>
