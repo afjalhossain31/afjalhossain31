@@ -150,16 +150,13 @@ View Academic Background  ⤵
 
 </details>
 
-<Img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
 
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&color=FF7B72&width=400&lines=%F0%9F%93%8A+GitHub+Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afjalhossain31&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=afjalhossain31&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=afjalhossain31&theme=radical&hide_border=true"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afjalhossain31&layout=compact&theme=radical&hide_border=true"/>
-</p>
+
 
