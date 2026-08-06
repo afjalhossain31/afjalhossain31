@@ -98,11 +98,10 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
-<details> 
-  <summary>
+<!-- <details>  -->
+  <!-- <summary>
 Explore My Project ⤵
-  </summary>
-
+  </summary> -->
 ### Full Stack Projects
 
 | Project | Description | Tech | Live |
@@ -111,7 +110,7 @@ Explore My Project ⤵
 | **Property Rental Booking Platform — Room & Workspace Booking Platform** | Full-stack property rental platform featuring role-based access (Tenant, Owner, Admin), dynamic search and filtering, secure Stripe checkout, and a centralized dashboard for managing properties, booking requests, and favorites. | Next.js, Express.js, MongoDB, Better Auth, JWT, Stripe, Tailwind CSS, HeroUI | [🔗 Live Link](https://property-rental-booking-platform-cl.vercel.app) · [GitHub](https://github.com/afjalhossain31/Property-Rental-Booking-Platform-Client) |
 | **DoctorAppoint — Booking Platform** | Advanced doctor appointment system enabling patients to search, filter, and book top-rated specialists. Features secure authentication (Better Auth, Google Sign-in), SEO-optimized responsive design, and a private dashboard to manage bookings, reviews, and profiles. | Next.js, React.js, MongoDB, Better Auth, Tailwind CSS v4, HeroUI | [🔗 Live Link](https://doctor-appoint-client.vercel.app) · [GitHub](https://github.com/afjalhossain31/Doctor-Appoint-Client) |
 
-</details>
+<!-- </details> -->
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
@@ -151,4 +150,16 @@ View Academic Background  ⤵
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
+<Img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient">
+
+
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&color=FF7B72&width=400&lines=%F0%9F%93%8A+GitHub+Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afjalhossain31&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=afjalhossain31&theme=radical&hide_border=true" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afjalhossain31&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
