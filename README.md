@@ -19,7 +19,7 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&typeSpeed=30&backSpeed=15&color=FF7B72&width=650&lines=%F0%9F%91%8B+About+Me;Junior+Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI+Powered+Solutions)
 
 
-Hi 👋, I'm a Junior Full-Stack Developer with a Bachelor's degree in Computer Science and Engineering (CSE). I specialize in the MERN Stack, including TypeScript, Next.js, React.js, Node.js, Express.js, and MongoDB.
+Hi there👋, I'm a Junior Full-Stack Developer with a Bachelor's degree in Computer Science and Engineering (CSE). I specialize in the MERN Stack, including TypeScript, Next.js, React.js, Node.js, Express.js, and MongoDB.
 
 I enjoy building modern, scalable, and user-friendly web applications. Through academic and personal projects, I have gained hands-on experience in full-stack development, deployment, and maintaining production-ready applications. I'm always eager to learn new technologies and write clean, maintainable code.
 
