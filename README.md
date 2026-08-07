@@ -156,7 +156,8 @@ View Academic Background  ⤵
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&color=FF7B72&width=400&lines=%F0%9F%93%8A+GitHub+Stats)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=afjalhossain31&theme=radical&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=afjalhossain31&theme=radical&hide_border=true&v=2" 
+    alt="GitHub Streak Stats"
+  />
 </p>
-
-
