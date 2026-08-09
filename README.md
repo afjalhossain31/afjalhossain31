@@ -162,6 +162,6 @@ View Academic Background  ⤵
   />
 </p> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=afjalhossain31&theme=radical&hide_border=true&v=2&cache=1" alt="GitHub Streak Stats" />
-</p>
+</p> -->
