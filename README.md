@@ -39,7 +39,8 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
   languages: ['JavaScript', 'TypeScript' ,  'Java', 'Python', 'C', 'C++'],
   frontend: ['HTML', 'CSS', 'Tailwind', 'React', 'Next.js'],
   backend: ['Node.js', 'Express.js'],
-  databases: ['MongoDB', 'Firebase', 'MySQL'],
+  databases: ['MongoDB', 'Firebase', 'MySQL', 'PostgreSQL'],
+  ORM: ['Prisma'],
   tools: ['VS Code', 'Git', 'GitHub', 'Figma', 'Canva', 'Vercel','MongoDB Compass'],
 }
 ```
