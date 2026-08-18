@@ -48,12 +48,11 @@ I enjoy building modern, scalable, and user-friendly web applications. Through a
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=5000&color=FF7B72&width=435&lines=WHAT+I'M+UP+TO%3F)
 
-* 🌱 **Currently mastering** the MERN Stack, Next.js, React.js, Node.js, Express.js, and MongoDB
-* 🚀 **Building full-stack applications** to strengthen my problem-solving skills and gain real-world development experience
-* 🤝 **Open to collaboration** on modern web applications, admin dashboards, SaaS platforms, and e-commerce solutions
-* 📚 **Continuously learning** scalable system design, application security, performance optimization, and CI/CD workflows
-* 💡 **Passionate about** creating clean, user-friendly, and high-performance digital experiences
-* ⚡ **Fun fact:** I enjoy a bit of humor alongside coding—but I always make sure to get the job done. 💻
+- 🌱 **Mastering the MERN Stack** — MongoDB, Express.js, React.js, Node.js, and Next.js
+- 🏗️ **Building full-stack projects** to gain real-world experience and strengthen my problem-solving skills
+- 🤝 **Looking to collaborate** on modern web applications, dynamic dashboards, SaaS platforms, and e-commerce projects
+- 📚 **Learning** scalable architecture, performance optimization, security best practices, and CI/CD deployment
+- ⚡ **Fun fact:** I bring the jokes 😄 and ship the code 💻
 
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=7000&color=FF7B72&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK)
