@@ -124,7 +124,7 @@ View Academic Background  ⤵
 
 | Institution | Qualification | Period | Result |
 |------------|--------------|---------|---------|
-| Daffodil International University | B.Sc. in Computer Science & Engineering (CSE) | 2022–2026 | CGPA: 3.55 |
+| Daffodil International University | B.Sc. in Computer Science & Engineering (CSE) | 2022–2026 | CGPA: 3.40 |
 | Hazi Asmat Govt. College, Bhairab | Higher Secondary Certificate (HSC) – Science | 2018–2020 | GPA: 5.00 |
 | Jogendra Chandra High School | Secondary School Certificate (SSC) – Science | 2016–2018 | GPA: 5.00 |
 
